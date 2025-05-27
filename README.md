@@ -2,6 +2,8 @@
 
 Начальный проект [React CRUD example to consume Web API](https://bezkoder.com/react-crud-web-api/). 
 
+Основной экран:
+
 ![main screen](doc/screen.png)
 
 ### Git ветки
