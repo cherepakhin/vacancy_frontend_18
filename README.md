@@ -314,6 +314,7 @@ __act__ — это вспомогательный инструмент для п
 
 Файл [doc/selenium_test_vacancy.side](doc/selenium_test_vacancy.side) открыть в Selenium IDE. [Видео проведения теста](doc/selenium.mp4) (открывать в видеоплеере).
 
+#### Readme прототипа проекта.
 
 Build a React.js CRUD Application to consume Web API, display and modify data with Router, Axios & Bootstrap.
 
