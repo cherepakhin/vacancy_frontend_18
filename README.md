@@ -216,7 +216,7 @@ export default axios.create({
 
 ### Разное
 
-mapStateToProps (redux)
+Нет привычного мне метода mapStateToProps для Redux. 
 
 Переход на главную страницу после удаления позиции ("this.props.router.navigate('/vacancy')"):
 
