@@ -373,4 +373,4 @@ __act__ — это вспомогательный инструмент для п
 
 [Selenium skillfactory.ru](https://blog.skillfactory.ru/glossary/selenium/)
 
-Файл [doc/selenium_test_vacancy.side](doc/selenium_test_vacancy.side) открыть в Selenium IDE. [Проведение теста](doc/selenium.mp4).
+Файл [doc/selenium_test_vacancy.side](doc/selenium_test_vacancy.side) открыть в Selenium IDE. [Видео проведения теста](doc/selenium.mp4) (открывать в видеоплеере).
