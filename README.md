@@ -1,81 +1,18 @@
-# React.js CRUD App with React Router & Axios
+# Заготовка для React CRUD проекта. React 18 с React Router и Axios
 
-Проект от [React CRUD example to consume Web API](https://bezkoder.com/react-crud-web-api/). 
+Начальный проект [React CRUD example to consume Web API](https://bezkoder.com/react-crud-web-api/). 
+
+![main screen](doc/screen.png)
 
 ### Git ветки
 Основная ветка __main__.
 Простой пример в git ветке __demo_route__.
 Ветку __master__ не удалять. Это пример старта проекта с React.
 
-Заготовка для React проекта. React 18.
 
 __Redux не используется.__ ([пример приложения с Redux](https://www.bezkoder.com/react-redux-crud-example/)). Для работы с backend сделан сервисный слой __services__. Что-то типа __state__ расположен в самих компонентах.
 
-Build a React.js CRUD Application to consume Web API, display and modify data with Router, Axios & Bootstrap.
-
-React Tutorial Application in that:
-- Each Tutorial has id, title, description, published status.
-- We can create, retrieve, update, delete Tutorials.
-- There is a Search bar for finding Tutorials by title.
-
-![react-crud-example-web-api-demo](react-crud-example-web-api-demo.png)
-
-For instruction, please visit:
-> [React CRUD example to consume Web API](https://bezkoder.com/react-crud-web-api/)
-
-Related Posts:
-> [React Typescript CRUD example to consume Web API](https://bezkoder.com/react-typescript-axios/)
-
-> [React Redux CRUD App example with Rest API](https://bezkoder.com/react-redux-crud-example/)
-
-> [React (Hooks) CRUD example to consume Web API](https://bezkoder.com/react-hooks-crud-axios-api/)
-
-> [React Table example: CRUD App with react-table v7](https://bezkoder.com/react-table-example-hooks-crud/)
-
-Using Material UI instead of Bootstrap:
-> [React Material UI examples with a CRUD Application](https://bezkoder.com/react-material-ui-examples-crud/)
-
-More Practice:
-> [React Pagination example](https://bezkoder.com/react-pagination-material-ui/)
-
-> [React File Upload example](https://bezkoder.com/react-file-upload-axios/)
-
-> [React JWT Authentication & Authorization example](https://bezkoder.com/react-jwt-auth/)
-
-> [React + Redux: JWT Authentication & Authorization example](https://bezkoder.com/react-redux-jwt-auth/)
-
-Fullstack with Node.js Express:
-> [React.js + Node.js Express + MySQL](https://bezkoder.com/react-node-express-mysql/)
-
-> [React.js + Node.js Express + PostgreSQL](https://bezkoder.com/react-node-express-postgresql/)
-
-> [React.js + Node.js Express + MongoDB](https://bezkoder.com/react-node-express-mongodb-mern-stack/)
-
-Fullstack with Spring Boot:
-> [React.js + Spring Boot + MySQL](https://bezkoder.com/react-spring-boot-crud/)
-
-> [React.js + Spring Boot + PostgreSQL](https://bezkoder.com/spring-boot-react-postgresql/)
-
-> [React.js + Spring Boot + MongoDB](https://bezkoder.com/react-spring-boot-mongodb/)
-
-Fullstack with Django:
-
-> [React.js + Django Rest Framework](https://bezkoder.com/django-react-axios-rest-framework/)
-
-Serverless:
-> [React Firebase CRUD App with Realtime Database](https://bezkoder.com/react-firebase-crud/)
-
-> [React Firestore CRUD App example | Firebase Cloud Firestore](https://bezkoder.com/react-firestore-crud/)
-
-Integration (run back-end & front-end on same server/port)
-> [How to integrate React.js with Spring Boot](https://bezkoder.com/integrate-reactjs-spring-boot/)
-
-> [Integrate React with Node.js Express on same Server/Port](https://bezkoder.com/integrate-react-express-same-server-port/)
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-### Set port
+### Установка порта приложения
 .env
 ```
 PORT=8081
@@ -374,3 +311,68 @@ __act__ — это вспомогательный инструмент для п
 [Selenium skillfactory.ru](https://blog.skillfactory.ru/glossary/selenium/)
 
 Файл [doc/selenium_test_vacancy.side](doc/selenium_test_vacancy.side) открыть в Selenium IDE. [Видео проведения теста](doc/selenium.mp4) (открывать в видеоплеере).
+
+
+Build a React.js CRUD Application to consume Web API, display and modify data with Router, Axios & Bootstrap.
+
+React Tutorial Application in that:
+- Each Tutorial has id, title, description, published status.
+- We can create, retrieve, update, delete Tutorials.
+- There is a Search bar for finding Tutorials by title.
+
+![react-crud-example-web-api-demo](react-crud-example-web-api-demo.png)
+
+For instruction, please visit:
+> [React CRUD example to consume Web API](https://bezkoder.com/react-crud-web-api/)
+
+Related Posts:
+> [React Typescript CRUD example to consume Web API](https://bezkoder.com/react-typescript-axios/)
+
+> [React Redux CRUD App example with Rest API](https://bezkoder.com/react-redux-crud-example/)
+
+> [React (Hooks) CRUD example to consume Web API](https://bezkoder.com/react-hooks-crud-axios-api/)
+
+> [React Table example: CRUD App with react-table v7](https://bezkoder.com/react-table-example-hooks-crud/)
+
+Using Material UI instead of Bootstrap:
+> [React Material UI examples with a CRUD Application](https://bezkoder.com/react-material-ui-examples-crud/)
+
+More Practice:
+> [React Pagination example](https://bezkoder.com/react-pagination-material-ui/)
+
+> [React File Upload example](https://bezkoder.com/react-file-upload-axios/)
+
+> [React JWT Authentication & Authorization example](https://bezkoder.com/react-jwt-auth/)
+
+> [React + Redux: JWT Authentication & Authorization example](https://bezkoder.com/react-redux-jwt-auth/)
+
+Fullstack with Node.js Express:
+> [React.js + Node.js Express + MySQL](https://bezkoder.com/react-node-express-mysql/)
+
+> [React.js + Node.js Express + PostgreSQL](https://bezkoder.com/react-node-express-postgresql/)
+
+> [React.js + Node.js Express + MongoDB](https://bezkoder.com/react-node-express-mongodb-mern-stack/)
+
+Fullstack with Spring Boot:
+> [React.js + Spring Boot + MySQL](https://bezkoder.com/react-spring-boot-crud/)
+
+> [React.js + Spring Boot + PostgreSQL](https://bezkoder.com/spring-boot-react-postgresql/)
+
+> [React.js + Spring Boot + MongoDB](https://bezkoder.com/react-spring-boot-mongodb/)
+
+Fullstack with Django:
+
+> [React.js + Django Rest Framework](https://bezkoder.com/django-react-axios-rest-framework/)
+
+Serverless:
+> [React Firebase CRUD App with Realtime Database](https://bezkoder.com/react-firebase-crud/)
+
+> [React Firestore CRUD App example | Firebase Cloud Firestore](https://bezkoder.com/react-firestore-crud/)
+
+Integration (run back-end & front-end on same server/port)
+> [How to integrate React.js with Spring Boot](https://bezkoder.com/integrate-reactjs-spring-boot/)
+
+> [Integrate React with Node.js Express on same Server/Port](https://bezkoder.com/integrate-react-express-same-server-port/)
+
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
